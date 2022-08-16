@@ -24,4 +24,4 @@ jobs:
                     host: 159.89.171.253
                     path: /var/www/html/qa
                 env:
-                    DEPLOY_KEY: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHPcvz4wxm0ivR+d+odgBnYq1BecfopXCQLhsUeIS+PJ varun@mindrops.com
+                    DEPLOY_KEY: 'AAAAC3NzaC1lZDI1NTE5AAAAIHPcvz4wxm0ivR+d+odgBnYq1BecfopXCQLhsUeIS+PJ'
