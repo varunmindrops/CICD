@@ -24,4 +24,4 @@ jobs:
                     host: 159.89.171.253
                     path: /var/www/html/qa
                 env:
-                    DEPLOY_KEY: 'AAAAC3NzaC1lZDI1NTE5AAAAIHPcvz4wxm0ivR+d+odgBnYq1BecfopXCQLhsUeIS+PJ'
+                    DEPLOY_KEY: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDD55k3won9ScwrGTbKFvqSgjlK5KIEUjt02b/1IcKPCbpPj7Rxjciky/D3c83IbBCnnzKkQbLwsyj9M1s2NJPNvTu+KK7jrSKrZACdFOXEt6uokhBpFh6PrHYpwtMYzZORyOfbiWCLHuccYZbLh3ycAYUyM0QYKu0kz8RNawl+DILXwm0AQKR/3hi7wFcVbVLsiSeL5XrpkOC+1Vk1f+drNunN1Y8dUyO6CEjHmrA0T8BJESz7Xtxjwh8VdbcCSxJu+pnKW64kpqaz/bQLWu75qpsXX+UIeG3ehADZ2UvjCIY90HANSFXvqplbaVPbbqJJOf8ggsEzjXIw5MrNA6UC2RepVV4xgi/jwPipXO9AnfRS7YDT9mg1aLCOtofnbBWp0fLA1PXcasdB8zJrHqWo8FjNcPM5YkkI738pbPst5l77LJ3uQ0iEk2txloePUpDMqjZ17c20TDywbUwSgu+xxbpGk3SEd8lgHQat5aRhbnswE9AoKGu9Y5w7kyXi4Zc= root@QA'
