@@ -22,7 +22,6 @@ jobs:
                 with:
                     user: root
                     host: 159.89.171.253
-                    port: 22
                     path: /var/www/html/qa
                 env:
                     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
