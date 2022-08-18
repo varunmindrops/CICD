@@ -14,9 +14,9 @@ jobs:
     - name: deploy file
       uses: wlixcc/SFTP-Deploy-Action@v1.0
       with:
-        username: 'aeris'
-        server: 'ci-apps-dev.yunohost.org'
-        private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
+        username: 'root'
+        server: '159.89.171.253'
+        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} 
         local_path: './*'
         remote_path: '/var/www/html/qa' #make sure dir exist
         args: '-o ConnectTimeout=5'
